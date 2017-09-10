@@ -4,7 +4,4 @@ main:
      url: /about/
    - title: "Feuerwehr"
      url: /feuerwehr/
-   - title: "Blog"
-     url: /blog/
-   - title: "Sitemap"
-     url: /sitemap/
+

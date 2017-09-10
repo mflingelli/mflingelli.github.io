@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Steinheim"
-  email            :
+  email            : "mflingelli@blackned.de"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/mflingelli"
   gitlab           :
   google_plus      :
   keybase          :
@@ -104,7 +104,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/Markus_Flingelli"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
